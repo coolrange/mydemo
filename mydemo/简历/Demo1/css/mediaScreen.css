@@ -1,0 +1,1251 @@
+@media screen and (max-width: 1024px) {
+	.ser-wapper .service-text {
+		left: 0;
+	}
+
+	.btn-box {
+		margin: 0;
+	}
+
+	.header .top-banner-con {
+		height: 500px;
+	}
+
+	.first-banner .phone {
+		top: 26%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.phone .box-img {
+		top: 50%;
+	    left: 13%;
+	    width: 100%;
+	}
+
+	.phone .box-img img {
+	    margin-left: .5em;
+	    width: 20%;
+	}
+	
+	.first-banner .phone-text {
+		right: -10%;
+	    top: 36%;
+	    width: 60%;
+	}
+
+	.phone-text h3 {
+	    font-size: 2.5em;
+	    margin: 0;
+	}
+
+	.phone-text span {
+		width: 100%;
+		font-size: 1.6em;
+		margin: 0;
+	}
+
+	.phone-text button {
+		margin: 0;
+		padding: .5em 1em;
+		font-size: 1.2em;
+	}
+
+	.second-banner .sec-title {
+	    top: 13%;
+   	 	left: 0;
+	}
+
+	.second-banner .sec-title h1 {
+		font-size: 3em;
+	}
+
+	.second-banner .sec-tips-box {
+		top: 40%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-tips-box h4 {
+		font-size: 1.4em;
+		padding: .3em 1em;
+	}
+
+	.second-banner .sec-btn {
+	    right: -15%;
+	    bottom: 10%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-btn button {
+		padding: 0.5em 1em;
+		font-size: 1.4em
+	}
+
+	.navbar-default .navbar-brand {
+	    padding: .8em 0;
+	    margin-left: 1em;
+
+	}
+
+	#example-navbar-collapse {
+		padding: 0;
+		position: absolute;
+    	left: 26em;
+	}
+
+	.navbar-nav {
+		margin-left: 0;
+	}
+	
+	#example-navbar-collapse .search-btn {
+		position: absolute;
+    	left: 36em;
+	}
+
+	.input-group {
+	    left: -8em;
+	    width: 200px;
+	}
+
+	.Service-box .img-box {
+		margin-top: 3em;
+	}
+
+	.ser-wapper .service-text h3 {
+		font-size: 1.4em;
+	}
+
+	.design .title:before {
+		top : 1.5em;
+	}
+
+	.works .title:before {
+		top: 2em;
+	}
+
+	.goods-message .goods-icon a {
+		font-size: 1.5em;
+	}
+
+	.goods-message .goods-icon {
+		left: 6em;
+    	bottom: 3em;
+	}
+
+	.goods-box .goods-text {
+		left: 4em;
+    	bottom: 1em;
+	}
+
+	.load-more h3 {
+		font-size: 1.5em;
+	}
+
+	.load-more button {
+		font-size: 2em;
+	}
+
+	.team .title:before {
+		top: 1.5em;
+	}
+
+
+
+	.comment-message .comment-text .id:before {
+		right: 8%;
+		top: 35%;
+	}
+
+	.comment {
+		padding-top: 8em;
+		padding-bottom: 0;
+	}
+
+	.comment .btn-box {
+		margin: 6em 0;
+	}
+
+	.see-more h3 {
+		font-size: 1.5em;
+	}
+
+	.see-more button {
+		font-size: 2em;
+	}
+
+	.get-touch .contact-icon {
+		margin-top: 3em;
+	}
+	
+	.footer-wrapper h4 {
+		font-size: 1em;
+	}
+
+	.footer-wrapper .link{
+		font-size: 1.2em;
+	}
+
+	.footer-wrapper .find-us{
+		font-size: 1.2em;
+	}
+
+	.footer-wrapper .rechnt-posts{
+		font-size: 1.2em;
+	}
+
+	.footer-bottom p {
+		font-size: 1.4em;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.ser-wapper .service-text {
+		left: 0;
+	}
+
+	.btn-box {
+		margin: 0;
+	}
+
+	.header .top-banner-con {
+		height: 400px;
+	}
+
+	.first-banner .phone {
+		top: 26%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.phone .box-img {
+		top: 50%;
+	    left: 13%;
+	    width: 100%;
+	}
+
+	.phone .box-img img {
+	    margin-left: .5em;
+	    width: 20%;
+	}
+	
+	.first-banner .phone-text {
+		right: -10%;
+	    top: 36%;
+	    width: 60%;
+	}
+
+	.phone-text h3 {
+	    font-size: 2.5em;
+	    margin: 0;
+	}
+
+	.phone-text span {
+		width: 100%;
+		font-size: 1.6em;
+		margin: 0;
+	}
+
+	.phone-text button {
+		margin: 0;
+		padding: .5em 1em;
+		font-size: 1.2em;
+	}
+
+	.second-banner .sec-title {
+	    top: 13%;
+   	 	left: 0;
+	}
+
+	.second-banner .sec-title h1 {
+		font-size: 3em;
+	}
+
+	.second-banner .sec-tips-box {
+		top: 40%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-tips-box h4 {
+		font-size: 1.4em;
+		padding: .3em 1em;
+	}
+
+	.second-banner .sec-btn {
+	    right: -15%;
+	    bottom: 10%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-btn button {
+		padding: 0.5em 1em;
+		font-size: 1.4em
+	}
+
+	.navbar-default .navbar-brand {
+	    padding: .8em 0;
+	    margin-left: 1em;
+
+	}
+
+	#example-navbar-collapse {
+		padding: 0;
+		position: absolute;
+    	left: 13em;
+	}
+
+	.navbar-nav {
+		margin-left: 0;
+	}
+	
+	#example-navbar-collapse .search-btn {
+		position: absolute;
+    	left: 36em;
+	}
+
+	.input-group {
+	    left: -8em;
+	    width: 200px;
+	}
+
+	.Service-box .img-box {
+		margin-top: 5em;
+	}
+
+	.ser-wapper .service-text h3 {
+		font-size: 1.2em;
+	}
+
+	.design .title:before {
+		top : 1.5em;
+	}
+
+	.works .title:before {
+		top: 2em;
+	}
+
+	.goods-message .goods-icon {
+		left: 10em;
+    	bottom: 7em;
+	}
+
+	.goods-box .goods-text {
+		left: 10em;
+    	bottom: 5em;
+	}
+
+	.load-more h3 {
+		font-size: 1em;
+	}
+
+	.load-more button {
+		font-size: 1.4em;
+	}
+
+	.team .title:before {
+		top: 1.5em;
+	}
+
+	.comment .comment-message .comment-img:before {
+		left: 32%;
+		width: 50px;
+	}
+
+	.comment .comment-message .comment-img:after {
+		right: 32%;
+		width: 50px;
+	}
+
+	.comment-message .comment-text .id:before {
+		right: 14%;
+		top: 35%;
+	}
+
+	.comment {
+		padding-top: 8em;
+		padding-bottom: 0;
+	}
+
+	.comment .btn-box {
+		margin: 6em 0;
+	}
+
+	.see-more h3 {
+		font-size: 1em;
+	}
+
+	.see-more button {
+		font-size: 1.4em;
+	}
+
+	.get-touch .contact-icon {
+		margin-top: 3em;
+	}
+	
+	.footer-wrapper h4 {
+		font-size: 2em;
+	}
+
+	.footer-wrapper .link{
+		font-size: 1.4em;
+	}
+
+	.footer-wrapper .find-us{
+		font-size: 1.4em;
+	}
+
+	.footer-wrapper .rechnt-posts{
+		font-size: 1.4em;
+	}
+
+	.footer-bottom p {
+		font-size: 1.4em;
+	}
+}
+
+@media screen and (max-width: 736px) {
+	.ser-wapper .service-text {
+		left: 0;
+	}
+
+	.btn-box {
+		margin: 0;
+	}
+
+	.header .top-banner-con {
+		height: 350px;
+	}
+
+	.first-banner .phone {
+		top: 26%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.phone .box-img {
+		top: 50%;
+	    left: 13%;
+	    width: 100%;
+	}
+
+	.phone .box-img img {
+	    margin-left: .5em;
+	    width: 20%;
+	}
+	
+	.first-banner .phone-text {
+		right: -10%;
+	    top: 36%;
+	    width: 60%;
+	}
+
+	.phone-text h3 {
+	    font-size: 2.5em;
+	    margin: 0;
+	}
+
+	.phone-text span {
+		width: 100%;
+		font-size: 1.6em;
+		margin: 0;
+	}
+
+	.phone-text button {
+		margin: 0;
+		padding: .5em 1em;
+		font-size: 1.2em;
+	}
+
+	.second-banner .sec-title {
+	    top: 13%;
+   	 	left: 0;
+	}
+
+	.second-banner .sec-title h1 {
+		font-size: 3em;
+	}
+
+	.second-banner .sec-tips-box {
+		top: 40%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-tips-box h4 {
+		font-size: 1.4em;
+		padding: .3em 1em;
+	}
+
+	.second-banner .sec-btn {
+	    right: -15%;
+	    bottom: 10%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-btn button {
+		padding: 0.5em 1em;
+		font-size: 1.4em
+	}
+
+	.navbar-default .navbar-brand {
+	    padding: .8em 0;
+	    margin-left: 1em;
+
+	}
+
+	#example-navbar-collapse {
+		padding: 0;
+	}
+
+	.navbar-nav {
+		margin-left: 0;
+	}
+
+	.input-group {
+	    top: -3em;
+	    left: 5em;
+	}
+
+	.services p {
+		text-align: center;
+	}
+
+	.ser-wapper .service-text {
+		float: right;
+		left: -7em;
+	}
+
+	.ser-wapper .service-icon {
+		float: left;
+	}
+
+	.ser-wapper .service-text h3 {
+		font-size: 1em;
+		font-weight: bold;
+	}
+
+	.ser-wapper .service-text p {
+		font-size: .8em;
+		text-align: left;
+	}
+
+	.ser-wapper .service-icon a {
+		top: 1.5em;
+		left: 7em;
+	}
+
+	.design .title:before {
+		top : 1.5em;
+	}
+
+	.works .title:before {
+		top: 2em;
+	}
+
+	.goods-message .goods-icon {
+		left: 23em;
+    	bottom: 20em;
+	}
+
+	.goods-box .goods-text {
+		left: 23em;
+    	bottom: 12em;
+	}
+
+	.load-more h3 {
+		font-size: 1em;
+	}
+
+	.load-more button {
+		font-size: 1.4em;
+	}
+
+	.team .title:before {
+		top: 1.5em;
+	}
+
+	.comment .comment-message .comment-img:before {
+		left: 32%;
+		width: 50px;
+	}
+
+	.comment .comment-message .comment-img:after {
+		right: 32%;
+		width: 50px;
+	}
+
+	.comment-message .comment-text .id:before {
+		right: 14%;
+		top: 35%;
+	}
+
+	.comment {
+		padding-top: 8em;
+		padding-bottom: 0;
+	}
+
+	.comment .btn-box {
+		margin: 6em 0;
+	}
+
+	.see-more h3 {
+		font-size: 1em;
+	}
+
+	.see-more button {
+		font-size: 1.4em;
+	}
+
+	.get-touch .contact-icon {
+		margin-top: 3em;
+	}
+	
+	.footer-wrapper h4 {
+		font-size: 2em;
+	}
+
+	.footer-wrapper .link{
+		font-size: 1.4em;
+	}
+
+	.footer-wrapper .find-us{
+		font-size: 1.4em;
+	}
+
+	.footer-wrapper .rechnt-posts{
+		font-size: 1.4em;
+	}
+
+	.footer-bottom p {
+		font-size: 1.4em;
+	}
+}
+
+@media screen and (max-width: 667px) {
+	.ser-wapper .service-text {
+		left: 0;
+	}
+
+	.btn-box {
+		margin: 0;
+	}
+
+	.header .top-banner-con {
+		height: 350px;
+	}
+
+	.first-banner .phone {
+		top: 26%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.phone .box-img {
+		top: 50%;
+	    left: 13%;
+	    width: 100%;
+	}
+
+	.phone .box-img img {
+	    margin-left: .5em;
+	    width: 20%;
+	}
+	
+	.first-banner .phone-text {
+		right: -10%;
+	    top: 36%;
+	    width: 60%;
+	}
+
+	.phone-text h3 {
+	    font-size: 2.5em;
+	    margin: 0;
+	}
+
+	.phone-text span {
+		width: 100%;
+		font-size: 1.6em;
+		margin: 0;
+	}
+
+	.phone-text button {
+		margin: 0;
+		padding: .5em 1em;
+		font-size: 1.2em;
+	}
+
+	.second-banner .sec-title {
+	    top: 13%;
+   	 	left: 0;
+	}
+
+	.second-banner .sec-title h1 {
+		font-size: 3em;
+	}
+
+	.second-banner .sec-tips-box {
+		top: 40%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-tips-box h4 {
+		font-size: 1.4em;
+		padding: .3em 1em;
+	}
+
+	.second-banner .sec-btn {
+	    right: -15%;
+	    bottom: 10%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-btn button {
+		padding: 0.5em 1em;
+		font-size: 1.4em
+	}
+
+	.navbar-default .navbar-brand {
+	    padding: .8em 0;
+	    margin-left: 1em;
+
+	}
+
+	#example-navbar-collapse {
+		padding: 0;
+	}
+
+	.navbar-nav {
+		margin-left: 0;
+	}
+
+	.input-group {
+	    top: -3em;
+	    left: 5em;
+	}
+
+	.services p {
+		text-align: center;
+	}
+
+	.ser-wapper .service-text {
+		float: right;
+		left: -7em;
+	}
+
+	.ser-wapper .service-icon {
+		float: left;
+	}
+
+	.ser-wapper .service-text h3 {
+		font-size: 1em;
+		font-weight: bold;
+	}
+
+	.ser-wapper .service-text p {
+		font-size: .8em;
+		text-align: left;
+	}
+
+	.ser-wapper .service-icon a {
+		top: 1.5em;
+		left: 7em;
+	}
+
+	.design .title:before {
+		top : 3em;
+	}
+
+	.works .title:before {
+		top: 2em;
+	}
+
+	.goods-message .goods-icon {
+		left: 20em;
+    	bottom: 15em;
+	}
+
+	.goods-box .goods-text {
+		left: 20em;
+    	bottom: 10em;
+	}
+
+	.load-more h3 {
+		font-size: 1em;
+	}
+
+	.load-more button {
+		font-size: 1.4em;
+	}
+
+	.team .title:before {
+		top: 1.5em;
+	}
+
+	.comment .comment-message .comment-img:before {
+		left: 32%;
+		width: 50px;
+	}
+
+	.comment .comment-message .comment-img:after {
+		right: 32%;
+		width: 50px;
+	}
+
+	.comment-message .comment-text .id:before {
+		right: 14%;
+		top: 35%;
+	}
+
+	.comment {
+		padding-top: 8em;
+		padding-bottom: 0;
+	}
+
+	.comment .btn-box {
+		margin: 6em 0;
+	}
+
+	.see-more h3 {
+		font-size: 1em;
+	}
+
+	.see-more button {
+		font-size: 1.4em;
+	}
+
+	.get-touch .contact-icon {
+		margin-top: 3em;
+	}
+
+	.footer-bottom p {
+		font-size: 1.4em;
+	}
+}
+
+
+@media screen and (max-width: 568px) {
+	.ser-wapper .service-text {
+		left: 0;
+	}
+
+	.btn-box {
+		margin: 0;
+	}
+
+	.header .top-banner-con {
+		height: 300px;
+	}
+
+	.first-banner .phone {
+		top: 26%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.phone .box-img {
+		top: 50%;
+	    left: 13%;
+	    width: 100%;
+	}
+
+	.phone .box-img img {
+	    margin-left: .5em;
+	    width: 20%;
+	}
+	
+	.first-banner .phone-text {
+		right: -10%;
+	    top: 36%;
+	    width: 60%;
+	}
+
+	.phone-text h3 {
+	    font-size: 2em;
+	    margin: 0;
+	}
+
+	.phone-text span {
+		width: 100%;
+		font-size: 1.4em;
+		margin: 0;
+	}
+
+	.phone-text button {
+		margin: 0;
+		padding: .5em;
+		font-size: 1em;
+	}
+
+	.second-banner .sec-title {
+	    top: 13%;
+   	 	left: 0;
+	}
+
+	.second-banner .sec-title h1 {
+		font-size: 2.2em;
+	}
+
+	.second-banner .sec-tips-box {
+		top: 40%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-tips-box h4 {
+		font-size: 1.2em;
+		padding: .3em 1em;
+	}
+
+	.second-banner .sec-btn {
+	    right: -15%;
+	    bottom: 10%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-btn button {
+		padding: 0.5em 1em;
+		font-size: 1.4em
+	}
+
+	.navbar-default .navbar-brand {
+	    padding: .8em 0;
+	    margin-left: 1em;
+
+	}
+
+	#example-navbar-collapse {
+		padding: 0;
+	}
+
+	.navbar-nav {
+		margin-left: 0;
+	}
+
+	.input-group {
+	    top: -3em;
+	    left: 5em;
+	}
+
+	.services p {
+		text-align: center;
+	}
+
+	.ser-wapper .service-text {
+		float: right;
+		left: -7em;
+	}
+
+	.ser-wapper .service-icon {
+		float: left;
+	}
+
+	.ser-wapper .service-text h3 {
+		font-size: 1em;
+		font-weight: bold;
+	}
+
+	.ser-wapper .service-text p {
+		font-size: .8em;
+		text-align: left;
+	}
+
+	.ser-wapper .service-icon a {
+		top: 1.5em;
+		left: 7em;
+	}
+
+	.design .title:before {
+		top : 3em;
+	}
+
+	.works .title:before {
+		top: 2em;
+	}
+
+	.goods-message .goods-icon {
+		left: 15em;
+    	bottom: 15em;
+	}
+
+	.goods-box .goods-text {
+		left: 15em;
+    	bottom: 10em;
+	}
+
+	.load-more h3 {
+		font-size: 1em;
+	}
+
+	.load-more button {
+		font-size: 1.4em;
+	}
+
+	.team .title:before {
+		top: 1.5em;
+	}
+
+	.comment .comment-message .comment-img:before {
+		left: 32%;
+		width: 50px;
+	}
+
+	.comment .comment-message .comment-img:after {
+		right: 32%;
+		width: 50px;
+	}
+
+	.comment-message .comment-text .id:before {
+		right: 14%;
+		top: 35%;
+	}
+
+	.comment {
+		padding-top: 8em;
+		padding-bottom: 0;
+	}
+
+	.comment .btn-box {
+		margin: 6em 0;
+	}
+
+	.see-more h3 {
+		font-size: 1em;
+	}
+
+	.see-more button {
+		font-size: 1.4em;
+	}
+
+	.get-touch .contact-icon {
+		margin-top: 3em;
+	}
+
+	.footer-bottom p {
+		font-size: 1em;
+	}
+}
+
+
+@media screen and (max-width: 414px) {
+	.ser-wapper .service-text {
+		left: 0;
+	}
+
+	.btn-box {
+		margin: 0;
+	}
+
+	.header .top-banner-con {
+		height: 180px;
+	}
+
+	.first-banner .phone {
+		top: 30%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.phone .box-img {
+		top: 48%;
+	    left: 10%;
+	    width: 100%;
+	}
+
+	.phone .box-img img {
+	    margin-left: .5em;
+	    width: 20%;
+	}
+	
+	.first-banner .phone-text {
+		right: -6%;
+	    top: 34%;
+	    width: 60%;
+	}
+
+	.phone-text h3 {
+	    font-size: 1.2em;
+	    margin: 0;
+	}
+
+	.phone-text span {
+		width: 100%;
+		font-size: .1em;
+		margin: 0;
+	}
+
+	.phone-text button {
+		margin: 0;
+		padding: 0;
+		font-size: .8em;
+	}
+
+	.second-banner .sec-title {
+	    top: 13%;
+   	 	left: 0;
+	}
+
+	.second-banner .sec-title h1 {
+		font-size: 1.2em;
+	}
+
+	.second-banner .sec-tips-box {
+		top: 40%;
+	    left: 0%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-tips-box h4 {
+		font-size: .6em;
+		padding: .3em 1em;
+	}
+
+	.second-banner .sec-btn {
+	    right: -15%;
+	    bottom: 10%;
+	    width: 45%;
+	}
+
+	.second-banner .sec-btn button {
+		padding: 0.5em 1em;
+		font-size: .5em
+	}
+
+	.navbar-default .navbar-brand {
+	    padding: .8em 0;
+	    margin-left: 1em;
+
+	}
+
+	#example-navbar-collapse {
+		padding: 0;
+	}
+
+	.navbar-nav {
+		margin-left: 0;
+	}
+
+	.input-group {
+	    top: -3em;
+	    left: 5em;
+	}
+
+	.services p {
+		text-align: center;
+	}
+
+	.ser-wapper .service-text {
+		float: right;
+	}
+
+	.ser-wapper .service-icon {
+		float: left;
+	}
+
+	.ser-wapper .service-text h3 {
+		font-size: 1em;
+		font-weight: bold;
+	}
+
+	.ser-wapper .service-text p {
+		font-size: .8em;
+		text-align: left;
+	}
+
+	.ser-wapper .service-icon a {
+		top: 1.5em;
+		left: 1em;
+	}
+
+	.design .title:before {
+		top : 1.5em;
+	}
+
+	.works .title:before {
+		top: 3em;
+	}
+
+	.goods-message .goods-icon {
+		left: 10em;
+    	bottom: 10em;
+	}
+
+	.goods-box .goods-text {
+		left: 10em;
+    	bottom: 6em;
+	}
+
+	.load-more h3 {
+		font-size: .5em;
+	}
+
+	.load-more button {
+		font-size: .5em;
+	}
+
+	.team .title:before {
+		top: 2.5em;
+	}
+
+	.comment .comment-message .comment-img:before {
+		left: 17%;
+		width: 50px;
+	}
+
+	.comment .comment-message .comment-img:after {
+		right: 17%;
+		width: 50px;
+	}
+
+	.comment-message .comment-text .id:before {
+		right: 25%;
+		top: 35%;
+	}
+
+	.comment {
+		padding-top: 8em;
+		padding-bottom: 0;
+	}
+
+	.comment .btn-box {
+		margin: 6em 0;
+	}
+
+	.see-more h3 {
+		font-size: .5em;
+	}
+
+	.see-more button {
+		font-size: .5em;
+	}
+
+	.get-touch .contact-icon {
+		margin-top: 3em;
+	}
+
+	.get-touch .contact-icon i {
+		margin: 0;
+	}
+
+	.footer-wrapper h4 {
+		font-size: 2em;
+	}
+
+	.footer-wrapper .link{
+		font-size: 1.4em;
+	}
+
+	.footer-wrapper .find-us{
+		font-size: 1.4em;
+	}
+
+	.footer-wrapper .rechnt-posts{
+		font-size: 1.4em;
+	}
+
+	.footer-bottom p {
+		font-size: 1.4em;
+	}
+}
+
